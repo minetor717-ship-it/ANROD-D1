@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mavi">#1D5FE0</color>
+    <color name="mavi_koyu">#0B3A9C</color>
+    <color name="durum_cubugu">#1D5FE0</color>
+    <color name="zemin">#F1F5FB</color>
+    <color name="yazi">#101828</color>
+    <color name="soluk">#566175</color>
+    <color name="kirmizi">#B02A37</color>
+    <color name="ikon_zemin">#0B5ED7</color>
+</resources>

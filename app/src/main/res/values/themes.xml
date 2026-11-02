@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Sayim" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/mavi</item>
+        <item name="colorPrimaryDark">@color/durum_cubugu</item>
+        <item name="colorAccent">@color/mavi</item>
+        <item name="android:statusBarColor">@color/durum_cubugu</item>
+        <item name="android:navigationBarColor">@color/zemin</item>
+        <item name="android:windowBackground">@color/zemin</item>
+        <item name="android:textColorPrimary">@color/yazi</item>
+    </style>
+</resources>

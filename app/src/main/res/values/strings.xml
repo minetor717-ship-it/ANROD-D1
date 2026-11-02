@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hastane Sayım</string>
+    <string name="kisayol_kisa">QR ile bağlan</string>
+    <string name="kisayol_uzun">Bilgisayardaki QR ile bağlan</string>
+    <string name="baglan_baslik">Bilgisayardaki QR’ı okutun</string>
+    <string name="baglan_ipucu">Sayım programında “Sistemi Başlat”tan sonra çıkan QR’ı çerçeveye alın. Netleşmezse ekrana dokunun; uzaksa iki parmakla yakınlaştırın.</string>
+    <string name="elle_ipucu">Ya da adresi yazın</string>
+    <string name="elle_ornek">https://….trycloudflare.com</string>
+    <string name="baglan">Bağlan</string>
+    <string name="yapistir">Panodan al</string>
+    <string name="fener">🔦 Fener</string>
+    <string name="izin_kamera">QR okumak için kamera izni gerekli.</string>
+    <string name="izin_ver">İzin ver</string>
+    <string name="onceki">Son bağlanılanlar</string>
+    <string name="yeniden_dene">Yeniden dene</string>
+    <string name="qr_ile_baglan">QR ile bağlan</string>
+    <string name="banner_ulasilamiyor">Sunucuya ulaşılamıyor. Kayıtlar telefonda bekliyor; bağlantı gelince kendiliğinden gönderilir.</string>
+    <string name="cikis_uyari">Çıkmak için tekrar geri basın</string>
+</resources>

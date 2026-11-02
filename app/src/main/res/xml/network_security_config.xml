@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Yerel köprü (http://127.0.0.1) ve yerel ağdaki http://192.168.x.x sunucuları için düz http gerekir.
+     Tünel (https) adresleri normal sertifika denetimiyle çalışır. -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

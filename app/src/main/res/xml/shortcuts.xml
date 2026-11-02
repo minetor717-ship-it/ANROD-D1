@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="qr_baglan"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/kisayol_kisa"
+        android:shortcutLongLabel="@string/kisayol_uzun">
+        <intent
+            android:action="tr.hastane.sayim.QR_BAGLAN"
+            android:targetPackage="tr.hastane.sayim"
+            android:targetClass="tr.hastane.sayim.MainActivity" />
+    </shortcut>
+</shortcuts>

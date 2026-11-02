@@ -1,0 +1,1 @@
+-keep class tr.hastane.sayim.MainActivity$Kopru { *; }
